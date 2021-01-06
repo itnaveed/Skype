@@ -3,3 +3,7 @@ password
 email
 users
 add disshes
+add animals
+horese
+horse
+
